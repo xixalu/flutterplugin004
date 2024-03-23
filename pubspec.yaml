@@ -5,7 +5,7 @@ description: A new Flutter project.
 # 版本号
 version: 0.0.1
 # 主页 , 一般是 GitHub 的地址
-homepage: https://github.com/han1202012/flutter_package
+homepage: https://github.com/xixalu/flutterplugin004
 
 # 所需的环境
 environment:
