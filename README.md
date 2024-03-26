@@ -2,7 +2,7 @@
 dependencies:
   yingzi_flutter_image_cache:
     git:
-      url: https://github.com/Yingzi-Technology/yingzi_flutter_image_cache.git
+      url: https://github.com/xixalu/flutterplugin004.git
       ref: 1.0.0
 YZImageCacheView(
     width: 120,
@@ -10,6 +10,7 @@ YZImageCacheView(
     placeholderPath: "lib/res/icon_default_photo.png",
     url: "https://img0.baidu.com/it/u=3573430833,889588534&fm=253&fmt=auto&app=138&f=PNG?w=762&h=500",  
 )
+
 
 
 [width] 图片宽度
